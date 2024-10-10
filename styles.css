@@ -1,0 +1,14 @@
+h1 {
+  text-decoration: underline;
+}
+p {
+  color: blue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+body {
+  background-color: yellow;
+}
+ol {
+  color: darkred;
+  font-family: cursive;
+}
